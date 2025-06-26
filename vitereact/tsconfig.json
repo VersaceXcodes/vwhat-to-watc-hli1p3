@@ -1,20 +1,2 @@
-{
-	"files": [],
-	"references": [
-		{ "path": "./tsconfig.app.json" },
-		{ "path": "./tsconfig.node.json" }
-	],
-	"compilerOptions": {
-		"baseUrl": ".",
-		"paths": {
-			"@/*": ["./src/*"]
-		}
-	}
-}
-
-
-
-
-
-
-
+// Error loading file: vitereact/tsconfig.json
+// Failed to fetch (localhost:667)

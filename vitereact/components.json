@@ -1,27 +1,2 @@
-{
-	"$schema": "https://ui.shadcn.com/schema.json",
-	"style": "default",
-	"rsc": false,
-	"tsx": true,
-	"tailwind": {
-		"config": "tailwind.config.js",
-		"css": "src/index.css",
-		"baseColor": "neutral",
-		"cssVariables": false,
-		"prefix": ""
-	},
-	"aliases": {
-		"components": "@/components",
-		"utils": "@/lib/utils",
-		"ui": "@/components/ui",
-		"lib": "@/lib",
-		"hooks": "@/hooks"
-	}
-}
-
-
-
-
-
-
-
+// Error loading file: vitereact/components.json
+// Failed to fetch (localhost:667)
